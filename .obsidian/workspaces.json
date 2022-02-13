@@ -1,0 +1,141 @@
+{
+  "workspaces": {
+    "Personal": {
+      "main": {
+        "id": "81e2f378d1c3d323",
+        "type": "split",
+        "children": [
+          {
+            "id": "783242af9fa18f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Today's Task.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f66a44676a9c60e1",
+        "type": "split",
+        "children": [
+          {
+            "id": "5f62238ee3acf055",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6843e334444aa36d",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "10971d5ae59be5a2",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#tp.file.title.split('-')[0]",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "d4b7cd6fa82048f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "e4cc3cf1c583c7bc",
+            "type": "tabs",
+            "dimension": 63.87832699619772,
+            "children": [
+              {
+                "id": "7796e9c52fc55380",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Today's Task.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b6a1acf38c6284ab",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Today's Task.md"
+                  }
+                }
+              },
+              {
+                "id": "bc9a6cea85f8af13",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "b86fc5f51d8e4288",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequencyReverse",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "86591dff0c65403c",
+            "type": "tabs",
+            "dimension": 36.12167300380228,
+            "children": [
+              {
+                "id": "0f699dcbb71cef95",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "783242af9fa18f50"
+    }
+  },
+  "active": "Personal"
+}
