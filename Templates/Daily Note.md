@@ -21,7 +21,7 @@ tags: DailyNote 2022
 
 ## Daily Log
 ### Github
-- [ ] One day one commit 📅 <% tp.date.now("YYYY-MM-DD") %> 
+- [ ] One day one commit 📅 <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %> 
 
 ## End of Day
 
@@ -75,6 +75,6 @@ path includes Daily Note/20
 ### Done Today
 ```tasks
 
-done on <% tp.date.now("YYYY-MM-DD") %>
+done on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 
 ```
