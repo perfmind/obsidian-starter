@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "78d2525efa5777f1",
+        "id": "40617acb6abe238c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -133,17 +133,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78d2525efa5777f1",
+  "active": "40617acb6abe238c",
   "lastOpenFiles": [
     "Readme.md",
     "Templates/Daily Note.md",
+    "Files/open-today.png",
+    "Notes/Markdown Example.md",
+    "Notes/I Moved to Bali and Lived With Local Community For A Year — Here’s How It Went.md",
     "Daily Note/2022-02-08.md",
     "Daily Note/2022-02-13.md",
     "Daily Note/2022-02-12.md",
     "Daily Note/2022-02-11.md",
-    "Coretan/Untitled.md",
-    "Qasir/Qasir.md",
-    "2022-02-12.md",
-    "Qasir/Documentation/Infrastructure Concepts.md"
+    "Coretan/Untitled.md"
   ]
 }

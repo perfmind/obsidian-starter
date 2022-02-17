@@ -27,7 +27,6 @@ This *template* using plugins that listed below:
 - [Obsidian Icon Folder](obsidian://show-plugin?id=obsidian-icon-folder). Embed *icon* to folders / notes.
 - [Outliner](obsidian://show-plugin?id=obsidian-outliner). Manipulate list.
 - [Periodic Notes](obsidian://show-plugin?id=periodic-notes). The advanced *Daily Notes* plugin, use this instead of built-in Daily Notes plugin. 
-- [Rollover Daily Todos](obsidian://show-plugin?id=obsidian-rollover-daily-todos). Migrate unfinished *todos*.
 - [Sliding Panes](obsidian://show-plugin?id=sliding-panes-obsidian). Inspired from [Andy Matuschak](notes.andymatuschak.org) notes. 
 - [Style Settings](obsidian://show-plugin?id=obsidian-style-settings). Modify theme settings.
 - [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin). Task management.
@@ -36,3 +35,4 @@ This *template* using plugins that listed below:
 ### Recommended Plugins
 - [Admonition](obsidian://show-plugin?id=obsidian-admonition). Cool block-style content.
 - [Folder Note](obsidian://show-plugin?id=folder-note-plugin) if you want folder as a note.
+- [Rollover Daily Todos](obsidian://show-plugin?id=obsidian-rollover-daily-todos). Migrate unfinished *todos*.

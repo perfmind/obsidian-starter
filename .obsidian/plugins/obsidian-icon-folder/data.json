@@ -8,11 +8,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiArticleFill",
+      "FaStickyNoteFill",
       "RiMistFill",
       "FaBookOpenFill",
-      "RiLockFill",
-      "RiAccountBoxLine",
-      "FaServerFill"
+      "RiLockFill"
     ],
     "recentlyUsedIconsSize": 5,
     "extraPadding": {
@@ -25,5 +25,6 @@
   "Daily Note": "RiCalendarCheckFill",
   "Files": "RiFileFill",
   "Projects": "RiBriefcase2Line",
-  "Templates": "RiFileTextFill"
+  "Templates": "RiFileTextFill",
+  "Notes": "RiArticleFill"
 }
