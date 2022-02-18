@@ -49,7 +49,7 @@ tags: DailyNote 2022
 ```tasks
 not done
 
-due before <% tp.date.now("YYYY-MM-DD") %>
+due before <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 ```
 
 ### Due Today
@@ -57,7 +57,7 @@ due before <% tp.date.now("YYYY-MM-DD") %>
 
 not done
 
-due on <% tp.date.now("YYYY-MM-DD") %>
+due on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
 
 ```
 
