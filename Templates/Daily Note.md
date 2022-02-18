@@ -3,7 +3,7 @@ creation date: <% tp.file.creation_date() %>
 tags: DailyNote 2022
 ---
 
-<< [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]>>
+<< [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]] | [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]] >>
 
 ## Today's Quote
 <% tp.web.daily_quote() %>
