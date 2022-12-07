@@ -1,5 +1,7 @@
 # Obsidian Starter 
 This template is created based on daily needs when working in [Qasir](https://qasir.id). 
+
+![[Pasted image 20221207120257.png]]
 ## Description
 
 This template only consists of Daily Note, Template and Files. 
