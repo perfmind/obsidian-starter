@@ -41,15 +41,10 @@
   "obsidian-prism-theme@@header-h5-underline-color-preset-dt": "pt-h5-underline-accent-dt",
   "obsidian-prism-theme@@header-h6-text-color-preset-dt": "pt-h6-text-accent-dt",
   "obsidian-prism-theme@@header-h6-underline-color-preset-dt": "pt-h6-underline-accent-dt",
-  "things-style@@minimal-icons-off": false,
-  "things-style@@full-file-names": false,
   "things-style@@h3-color": "#3EB4BF",
   "sanctum@@dark-mode-palette": "sanctum-true-black",
   "sanctum@@color-accent-d": "rgb(64, 150, 147)",
   "sanctum@@head-indicator": true,
   "sanctum@@heading-clr": true,
-  "things-style@@font-small": 15,
-  "things-style@@links-int-on": true,
-  "things-style@@macOS-translucent": false,
   "buttons-styles@@button-size": 1
 }

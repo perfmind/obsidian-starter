@@ -15,5 +15,6 @@
   },
   "attachmentFolderPath": "Files",
   "newFileLocation": "current",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true
 }

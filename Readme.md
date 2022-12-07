@@ -22,17 +22,14 @@ This template using [Thing](https://github.com/colineckert/obsidian-things) temp
 This *template* using plugins that listed below:
 - [Advanced Tables](obsidian://show-plugin?id=table-editor-obsidian). For creating and modifying table easily.
 - [Dataview](obsidian://show-plugin?id=dataview). For querying tasks in *Daily Notes*.
-- [Embedded Note Titles](obsidian://show-plugin?id=obsidian-embedded-note-titles). It will embed *Title* into the notes.
 - [Natural Language Dates](obsidian://show-plugin?id=nldates-obsidian). Ease use of *dates*.
 - [Obsidian Icon Folder](obsidian://show-plugin?id=obsidian-icon-folder). Embed *icon* to folders / notes.
 - [Outliner](obsidian://show-plugin?id=obsidian-outliner). Manipulate list.
 - [Periodic Notes](obsidian://show-plugin?id=periodic-notes). The advanced *Daily Notes* plugin, use this instead of built-in Daily Notes plugin. 
-- [Sliding Panes](obsidian://show-plugin?id=sliding-panes-obsidian). Inspired from [Andy Matuschak](notes.andymatuschak.org) notes. 
 - [Style Settings](obsidian://show-plugin?id=obsidian-style-settings). Modify theme settings.
 - [Tasks](obsidian://show-plugin?id=obsidian-tasks-plugin). Task management.
 - [Templater](obsidian://show-plugin?id=templater-obsidian). Creating file from *template*. Use this instead of built-in *Template* plugin.
 
 ### Recommended Plugins
-- [Admonition](obsidian://show-plugin?id=obsidian-admonition). Cool block-style content.
 - [Folder Note](obsidian://show-plugin?id=folder-note-plugin) if you want folder as a note.
 - [Rollover Daily Todos](obsidian://show-plugin?id=obsidian-rollover-daily-todos). Migrate unfinished *todos*.

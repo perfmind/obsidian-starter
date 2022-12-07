@@ -1,7 +1,8 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Things",
+  "cssTheme": "Listive",
   "baseFontSizeAction": true,
-  "theme": "obsidian",
-  "translucency": false
+  "theme": "moonstone",
+  "translucency": false,
+  "accentColor": ""
 }
